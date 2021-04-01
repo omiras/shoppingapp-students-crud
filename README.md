@@ -75,7 +75,7 @@ Now went to be able to also add new products to the database. Please, modify you
 The endpoint to add a new product is:
 
 ```
-http://http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/add-product/:idTeam
+http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/add-product/:idTeam
 ```
 
 You must perform a POST method to this endpoint. Have a look at the response of this AJAX call: ii may contain important information
