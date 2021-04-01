@@ -102,3 +102,7 @@ Where __idTeam__ is your codename, and __idProduct__ is the unique id provided b
 Important note: you must perform a GET in order to remove a product
 
 Good Luck! :four_leaf_clover:
+
+# Solution
+Project solution provided by [Marc Bellido](https://github.com/mbellydo/shoppingapp-students-crud
+) and [Daniel Ruiz](https://github.com/danielrs2219/shoppingapp-students-crud)
