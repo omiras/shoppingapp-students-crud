@@ -18,7 +18,7 @@ You must retrieve all the data from the API and display the products.
 
 
 ## Requirement 2: Fix the product title in the database
-You have realized that the last of the records you are retrieving is not well-formed. There's a field with a wrong name. It should be _title_ instead of _title_
+You have realized that the last of the records you are retrieving is not well-formed. There's a field with a wrong name. It should be _title_ instead of _titre_
 
 You ask Bob to fix it as it is his job but he replies:
 
