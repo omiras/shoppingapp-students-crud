@@ -95,7 +95,7 @@ Implement now the DELETE functionality.
 The endpoint to remove a product is:
 
 ```
-http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/add-product/:idTeam/:idProduct
+http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/delete-product/:idTeam/:idProduct
 ```
 
 Where __idTeam__ is your codename, and __idProduct__ is the unique id provided by the API when we add a new product
