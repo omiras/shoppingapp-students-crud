@@ -90,7 +90,7 @@ You must perform a POST method to this endpoint. Have a look at the response of 
 Can you add this product? Why not? What could you do in your client application? What are you going to tell Bob?
 
 ## BONUS Requirement
-Implement now the DELETE functionality.
+Implement now the delete functionality.
 
 The endpoint to remove a product is:
 
@@ -99,5 +99,6 @@ http://ec2-35-181-5-201.eu-west-3.compute.amazonaws.com:8080/delete-product/:idT
 ```
 
 Where __idTeam__ is your codename, and __idProduct__ is the unique id provided by the API when we add a new product
+Important note: you must perform a GET in order to remove a product
 
 Good Luck! :four_leaf_clover:
